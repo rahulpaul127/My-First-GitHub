@@ -4,4 +4,4 @@ As an Anime Fan i created this spinning webpage of Anya Forger from SpyxFamily
 
 # Anya Forger 
 
-![download](https://github.com/rahulpaul127/desktop-tutorial/assets/146154249/15d1a63e-9eb8-4050-8e20-b89338108da0)
+![download](https://github.com/rahulpaul127/desktop-tutorial/assets/146154249/aa8aff4c-ce14-4cff-a1d9-ca6b5ec06493)
