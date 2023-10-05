@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.progress{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: pink;
+    height: 100vh;
+    width: 100vw;
+}
+.bar1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: black;
+    height: 5px;
+    width: 0px;
+    animation: progbar 0.5s linear normal;
+}
+img{
+    animation: anya 2s linear  infinite;
+}
+@keyframes progbar{
+    from{
+        width: 0px;
+    }
+    to{
+        width: 100vw;
+    }
+}
+@keyframes anya {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
