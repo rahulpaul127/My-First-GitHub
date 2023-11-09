@@ -1,6 +1,6 @@
 # My First Project On GitHub
 
-As an Anime Fan i created this spinning webpage of Anya Forger from SpyxFamily
+As an Anime Fan i created this spinning webpage of Anya Forger from SpyxFamily and a progress bar at the top
 
 # Anya Forger 
 
